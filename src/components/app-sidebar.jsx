@@ -19,19 +19,19 @@ const data = {
   navMain: [
     {
       title: "HOME",
-      url: "#",
+      url: "Home",
      
     },
     {
       title: "INVENTORY LIST",
-      url: "#",
+      url: "Inventorylist",
     },
 
-    {
-      title: "Profiles",
-      url: "#",
+    // {
+    //   title: "PROFILES",
+    //   url: "Profile.jsx",
       
-    },
+    // },
   ],
 }
 
